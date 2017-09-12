@@ -18,3 +18,5 @@ exercise 5, ch2
 
 exercise 5, commit1 Brach
 exercise 5, commit2 Branch
+
+stash
