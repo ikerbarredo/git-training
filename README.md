@@ -6,4 +6,8 @@ ex4, 4
 
 exercide 3, 1
 
-exercise 4, 1
+exercise 4, 
+
+exercise 4, merge Commit
+
+exercise 4 commit 
